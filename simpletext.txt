@@ -1,2 +1,3 @@
 this is my simple text created by sreeja
 hello how are you?
+git is little bit hard
